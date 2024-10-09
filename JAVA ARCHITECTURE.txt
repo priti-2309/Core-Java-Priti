@@ -1,0 +1,21 @@
+JAVA ARCHITECTURE 
+
+There are three components of JAVA ARCHITECTURE:
+1. JDK (JAVA DEVELOPMENT KIT)
+2. JVM (JAVA VIRTUAL MACHINE) 
+3. JRE (JAVA RUNTIME ENVIRONMENT) 
+
+1. JDK (JAVA DEVELOPMENT KIT): 
+- It is a development kit used for running Java programs and to develop Java applications.
+-  It implements the Java Language Specification and the Java Virtual Machine Specification and provides the Standard Edition of the Java Application Programming Interface.
+
+2. JVM (JAVA VIRTUAL MACHINE): 
+- Java Virtual Machine provides environment for executing a program.
+- Converts source code to machine language and compiles it.
+
+3. JRE (JAVA RUNTIME ENVIRONMENT): 
+- Java Runtime Environment consists of libraries that help to run Java program.
+
+
+
+
